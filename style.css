@@ -1,0 +1,32 @@
+body{
+    background: #722e2e;
+    opacity: 0.6;
+  } 
+    .outer{
+        width: 211px;
+        height: auto;
+        background-color: black;
+        opacity: 0.6;
+        border-radius: 1em;
+        box-shadow: 10px 5px;
+        padding: 0.6em;;
+    }
+
+    #input {
+        margin: 6px 0px 6px 12px;
+        border-radius: 1em;
+        
+    }
+
+    #btn{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+
+    .inner-container{
+        width: 188px;
+        height: auto;
+        padding: o.6em;
+    }
+ 
